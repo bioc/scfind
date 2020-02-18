@@ -1,7 +1,7 @@
 Package: scfind
 Type: Package
 Title: A search tool for single cell RNA-seq data by gene lists
-Version: 1.9.0
+Version: 1.9.1
 Author: Vladimir Kiselev
 Maintainer: Vladimir Kiselev <vladimir.yu.kiselev@gmail.com>
 Authors@R: c(person("Vladimir", "Kiselev",
@@ -43,3 +43,4 @@ biocViews: ImmunoOncology, SingleCell, Software, RNASeq, Transcriptomics,
 NeedsCompilation: no
 URL: https://github.com/hemberg-lab/scfind
 BugReports: https://support.bioconductor.org/t/scfind/
+PackageStatus: Deprecated
